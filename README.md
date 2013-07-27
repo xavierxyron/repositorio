@@ -1,5 +1,4 @@
-#agrega un solo archivo
-git add archivo
-
-##agrega todos los archivos
-git add .
+Cabecera A | Cabecera B
+-- | --
+Campo A0 | Campo B0
+Campo A1 | Campo B1
